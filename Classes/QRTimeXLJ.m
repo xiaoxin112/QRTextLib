@@ -1,9 +1,9 @@
 //
-//  TimeXLJ.m
+//  QRTimeXLJ.m
 //  Lebang
 //
-//  Created by 熊良军 on 15/1/14.
-//  Copyright (c) 2015年 熊良军. All rights reserved.
+//  Created by xiaoxin on 15/1/14.
+//  Copyright (c) 2015年 xiaoxin. All rights reserved.
 //
 
 #import "QRTimeXLJ.h"
@@ -208,8 +208,8 @@
 // 是否是今天
 +(BOOL)isToDay:(NSDate*)date1
 {
-    NSDate *nowdate2=[TimeXLJ localeDate];
-    return [TimeXLJ isSameDay:date1 date2:nowdate2];
+    NSDate *nowdate2=[QRTimeXLJ localeDate];
+    return [QRTimeXLJ isSameDay:date1 date2:nowdate2];
 }
 //获取本地时间
 +(NSDate *)localeDate
