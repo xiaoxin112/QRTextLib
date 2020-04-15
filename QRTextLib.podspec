@@ -14,10 +14,9 @@ Pod::Spec.new do |s|
 
   s.source       = { :git => "https://github.com/xiaoxin112/QRTextLib.git", :tag => "0.1.3" }
   s.ios.deployment_target = '10.0'
-  s.source_files  = "Classes", "Classes/**/*.{h,m}"
+  s.source_files  = "Classes", "Classes/**/*"
   s.requires_arc = true
   s.dependency 'AFNetworking', '~> 3.1.0'
   s.frameworks = "CoreMedia", "AVKit", 'WebKit','JavaScriptCore','GameController','SystemConfiguration', 'MobileCoreServices','CoreFoundation','CFNetwork','CoreText','Security','CoreMotion','QuartzCore','OpenGLES','OpenAL','AudioToolbox','AVFoundation','UIKit','Foundation','CoreGraphics'
-  s.libraries = "libicucore.A", "libiconv", "libsqlite3","libz"
 
 end
