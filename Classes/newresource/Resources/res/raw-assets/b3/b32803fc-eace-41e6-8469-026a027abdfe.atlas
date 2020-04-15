@@ -1,0 +1,181 @@
+
+Thinking.png
+size: 1846,469
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 497, 105
+  size: 362, 357
+  orig: 362, 357
+  offset: 0, 0
+  index: -1
+Face
+  rotate: false
+  xy: 2, 17
+  size: 493, 450
+  orig: 495, 452
+  offset: 1, 1
+  index: -1
+Hair
+  rotate: false
+  xy: 1542, 11
+  size: 58, 65
+  orig: 60, 67
+  offset: 1, 1
+  index: -1
+Larm
+  rotate: false
+  xy: 1032, 5
+  size: 114, 178
+  orig: 116, 180
+  offset: 1, 1
+  index: -1
+Lear
+  rotate: true
+  xy: 860, 7
+  size: 99, 84
+  orig: 101, 86
+  offset: 1, 1
+  index: -1
+Leye
+  rotate: true
+  xy: 594, 3
+  size: 100, 29
+  orig: 102, 31
+  offset: 1, 1
+  index: -1
+Leyebrow
+  rotate: true
+  xy: 1498, 9
+  size: 67, 42
+  orig: 69, 44
+  offset: 1, 1
+  index: -1
+Lhand
+  rotate: true
+  xy: 1243, 7
+  size: 198, 210
+  orig: 201, 213
+  offset: 2, 1
+  index: -1
+Lhorn
+  rotate: true
+  xy: 1722, 131
+  size: 76, 122
+  orig: 78, 124
+  offset: 1, 1
+  index: -1
+Lleg
+  rotate: false
+  xy: 1228, 207
+  size: 184, 260
+  orig: 184, 260
+  offset: 0, 0
+  index: -1
+Machine
+  rotate: false
+  xy: 1455, 78
+  size: 186, 142
+  orig: 188, 144
+  offset: 1, 1
+  index: -1
+Mouth
+  rotate: false
+  xy: 1722, 92
+  size: 81, 37
+  orig: 84, 39
+  offset: 2, 1
+  index: -1
+Nose
+  rotate: false
+  xy: 1602, 34
+  size: 118, 42
+  orig: 120, 44
+  offset: 1, 1
+  index: -1
+Rarm
+  rotate: false
+  xy: 1148, 8
+  size: 93, 175
+  orig: 95, 177
+  offset: 1, 1
+  index: -1
+Rear
+  rotate: true
+  xy: 946, 7
+  size: 99, 84
+  orig: 101, 86
+  offset: 1, 1
+  index: -1
+Reye
+  rotate: true
+  xy: 625, 3
+  size: 100, 29
+  orig: 102, 31
+  offset: 1, 1
+  index: -1
+Reyebrow
+  rotate: true
+  xy: 1455, 8
+  size: 68, 41
+  orig: 70, 43
+  offset: 1, 1
+  index: -1
+Rhand
+  rotate: false
+  xy: 656, 4
+  size: 202, 99
+  orig: 205, 102
+  offset: 2, 1
+  index: -1
+Rhorn
+  rotate: false
+  xy: 1643, 84
+  size: 77, 123
+  orig: 79, 125
+  offset: 1, 1
+  index: -1
+Rleg
+  rotate: false
+  xy: 993, 185
+  size: 233, 282
+  orig: 233, 282
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: true
+  xy: 856, 108
+  size: 359, 135
+  orig: 361, 137
+  offset: 1, 1
+  index: -1
+Tie
+  rotate: false
+  xy: 1659, 209
+  size: 154, 83
+  orig: 156, 85
+  offset: 1, 1
+  index: -1
+quana
+  rotate: true
+  xy: 497, 2
+  size: 101, 95
+  orig: 114, 110
+  offset: 4, 11
+  index: -1
+quanb
+  rotate: false
+  xy: 1659, 294
+  size: 174, 173
+  orig: 186, 185
+  offset: 4, 8
+  index: -1
+quanc
+  rotate: true
+  xy: 1414, 222
+  size: 245, 243
+  orig: 256, 255
+  offset: 4, 8
+  index: -1
